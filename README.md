@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Poorva Indulkar
-- 👀 I’m interested in UI/UX Designing
+- 👀 I’m interested in UI/UX Designing and Front-end Development
 - 🌱 I’m currently working in TCS
 - 📫 How to reach me > poorvaindulkar123@gmail.com
 
